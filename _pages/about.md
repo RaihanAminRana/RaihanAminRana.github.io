@@ -15,13 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-{% include base_path %}
-{% include about.html %}
-{% include news.html %}
-{% include education.html %}
-{% include experience.html %}
-{% include publications.html %}
-{% include projects.html %}
 
 
 <span class='anchor' id='about-me'></span>
@@ -41,9 +34,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- RISE Undergraduate Student Research Grant(*2024*) worth of $1000 . 
+- *University Merit Scholarship (*2022, 2023*). 
+- Dean List’s Scholarship (*2022*).
+- Secured 1st position in Quantum Mechanics Workshop(*2022*).
+- Secured 3rd position in Rudlof-Ortvay Competition in Physics(*2020*).
+- Actively participated(19th position) in *EEE DAY 2023* Datathon Kaggle Competition.
+- Secured 1st position in the Dhaka region at Bangladesh Physics Olympiad (*2019*).
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
