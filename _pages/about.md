@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - RISE Undergraduate Student Research Grant(*2024*) worth of $1000 . 
-- *University Merit Scholarship (*2022*, *2023*). 
+- University Merit Scholarship (*2022*, *2023*). 
 - Dean List’s Scholarship (*2022*).
 - Secured 1st position in Quantum Mechanics Workshop(*2022*).
 - Secured 3rd position in Rudlof-Ortvay Competition in Physics(*2020*).
@@ -43,7 +43,13 @@ My research interest includes neural machine translation and computer vision. I 
 - Secured 1st position in the Dhaka region at Bangladesh Physics Olympiad (*2019*).
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *June 2024 - July 2024*,  Neural Semiconductor Ltd.
+  Industrial Attachment
+  A week-long program to explore the potential of the semiconductor industry in Bangladesh and gain familiarity
+ with industry projects related to analog integrated circuits and digital VLSI.
+- *October 2025*, Taru Projukti (PCB Manufacturing)
+  Industrial Visit
+  Three days long program to understand the chemical process of manufacturing a PCB.
 
 # 📝 Publications 
 
