@@ -44,11 +44,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *June 2024 - July 2024*,  Neural Semiconductor Ltd.
+  
   Industrial Attachment
+  
   A week-long program to explore the potential of the semiconductor industry in Bangladesh and gain familiarity
  with industry projects related to analog integrated circuits and digital VLSI.
 - *October 2025*, Taru Projukti (PCB Manufacturing)
+  
   Industrial Visit
+  
   Three days long program to understand the chemical process of manufacturing a PCB.
 
 # 📝 Publications 
