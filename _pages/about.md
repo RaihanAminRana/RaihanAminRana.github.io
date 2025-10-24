@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - RISE Undergraduate Student Research Grant(*2024*) worth of $1000 . 
-- *University Merit Scholarship (*2022, 2023*). 
+- *University Merit Scholarship (*2022*, *2023*). 
 - Dean List’s Scholarship (*2022*).
 - Secured 1st position in Quantum Mechanics Workshop(*2022*).
 - Secured 3rd position in Rudlof-Ortvay Competition in Physics(*2020*).
